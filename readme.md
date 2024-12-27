@@ -1,6 +1,6 @@
 # Welcome to My PowerShell Scripts Collection 🎉
 
-Hosted here on GitHub, this repository contains various PowerShell scripts authored by myself, the creator of [Hadberg.eu](https://hadberg.eu). On my platform, I share insights and solutions aimed at enhancing system administration and automation efficiency.
+Hosted here on GitHub, this repository contains various PowerShell scripts authored by myself, the creator of [Hadberg.eu](https://hadberg.eu). On my platform, I share insights and solutions aimed at Microsoft 365.
 
 ## About Hadberg.eu 🌐
 
